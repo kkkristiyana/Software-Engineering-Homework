@@ -210,9 +210,12 @@
 Пример:
 
 * **СНИМКА НА ER диаграма:**
-* **!\[ER диаграма](images/er-diagram.png)**
+
+**!\[ER диаграма](./images/er-diagram.png)**
+
 * **СНИМКА НА АРХИТЕКТУРАТА:**
-* **!\[ER диаграма](images/architecture.png)**
+
+**!\[ER диаграма](./images/architecture.png)**
 
 ## 7\. Потребителски поток
 
@@ -289,13 +292,22 @@
 ## Място за изображения към документа
 
 * **СНИМКА НА НАЧАЛНАТА СТРАНИЦА:**
-* **!\[Начална страница](images/home-page.png)**
+
+**!\[Начална страница](./images/home-page.png)**
+
 * **СНИМКА НА STUDENT PANEL:**
-* **!\[Студент панел](images/student-panel.png)**
+
+**!\[Студент панел](./images/student-panel.png)**
+
 * **СНИМКА НА INSTRUCTOR PANEL:**
-* **!\[Инструцтор панел профил](images/instructor-panel-profile.png)**
+
+**!\[Инструцтор панел профил](./images/instructor-panel-profile.png)**
+
 * **СНИМКА НА ADMIN PANEL:**
-* **!\[Админ панел](images/admin-panel.png)**
+
+**!\[Админ панел](./images/admin-panel.png)**
+
 * **СНИМКА НА ДИАГРАМАТА:**
-* **!\[ER диаграма](images/er-diagram.png)**
+
+**!\[ER диаграма](./images/er-diagram.png)**
 

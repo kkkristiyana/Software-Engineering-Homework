@@ -211,11 +211,11 @@
 
 * **СНИМКА НА ER диаграма:**
 
-**!\[ER диаграма](./images/er-diagram.png)**
+![ER диаграма](./images/er-diagram.png)**
 
 * **СНИМКА НА АРХИТЕКТУРАТА:**
 
-**!\[ER диаграма](./images/architecture.png)**
+![ER диаграма](./images/architecture.png)**
 
 ## 7\. Потребителски поток
 
@@ -291,35 +291,35 @@
 
 ## Място за изображения към документа
 
-\## Място за изображения към документа
 
 
 
-\### Снимка на началната страница
+### Снимка на началната страница
 
-!\[Начална страница](./images/home-page.png)
-
-
-
-\### Снимка на Student Panel
-
-!\[Студент панел](./images/student-panel.png)
+![Начална страница](./images/home-page.png)
 
 
 
-\### Снимка на Instructor Panel
+### Снимка на Student Panel
 
-!\[Инструктор панел профил](./images/instructor-panel-profile.png)
-
-
-
-\### Снимка на Admin Panel
-
-!\[Админ панел](./images/admin-panel.png)
+![Студент панел](./images/student-panel.png)
 
 
 
-\### Снимка на диаграмата
+### Снимка на Instructor Panel
 
-!\[ER диаграма](./images/er-diagram.png)
+![Инструктор панел профил](./images/instructor-panel-profile.png)
+
+
+
+### Снимка на Admin Panel
+
+![Админ панел](./images/admin-panel.png)
+
+
+
+### Снимка на диаграмата
+
+![ER диаграма](./images/er-diagram.png)
+
 

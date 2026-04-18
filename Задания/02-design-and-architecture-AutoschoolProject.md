@@ -291,23 +291,35 @@
 
 ## Място за изображения към документа
 
-* **СНИМКА НА НАЧАЛНАТА СТРАНИЦА:**
+\## Място за изображения към документа
 
-**!\[Начална страница](./images/home-page.png)**
 
-* **СНИМКА НА STUDENT PANEL:**
 
-**!\[Студент панел](./images/student-panel.png)**
+\### Снимка на началната страница
 
-* **СНИМКА НА INSTRUCTOR PANEL:**
+!\[Начална страница](./images/home-page.png)
 
-**!\[Инструцтор панел профил](./images/instructor-panel-profile.png)**
 
-* **СНИМКА НА ADMIN PANEL:**
 
-**!\[Админ панел](./images/admin-panel.png)**
+\### Снимка на Student Panel
 
-* **СНИМКА НА ДИАГРАМАТА:**
+!\[Студент панел](./images/student-panel.png)
 
-**!\[ER диаграма](./images/er-diagram.png)**
+
+
+\### Снимка на Instructor Panel
+
+!\[Инструктор панел профил](./images/instructor-panel-profile.png)
+
+
+
+\### Снимка на Admin Panel
+
+!\[Админ панел](./images/admin-panel.png)
+
+
+
+\### Снимка на диаграмата
+
+!\[ER диаграма](./images/er-diagram.png)
 
